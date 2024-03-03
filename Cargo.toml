@@ -25,13 +25,13 @@ path="src/d.rs"
 
 [[bin]]
 name="e"
-path="src/d.rs"
+path="src/e.rs"
 
 [[bin]]
 name="f"
-path="src/d.rs"
+path="src/f.rs"
 
 
 [[bin]]
 name="g"
-path="src/d.rs"
+path="src/g.rs"
